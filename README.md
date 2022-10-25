@@ -12,6 +12,8 @@
      -📜 Introdução a Redes de Computadores
       -📜 MICROSOFT EXCEL 2016 - INTERMEDIÁRIO
        -📜 MICROSOFT WORD 2016 - INTERMEDIÁRIO
+        -📜 Aspectos básicos de la asistencia técnica, Coursera
+         -📜 Google IT Support - Spanish, Coursera
        
 -📚 Computação Gráfica
 
